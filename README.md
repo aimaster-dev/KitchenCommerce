@@ -37,7 +37,7 @@ And many more screens for full control and monitoring!
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/StackSorcerer403/KitchenCommerce.git
+   git clone https://github.com/aimaster-dev/KitchenCommerce.git
    cd KitchenCommerce
    ```
 
